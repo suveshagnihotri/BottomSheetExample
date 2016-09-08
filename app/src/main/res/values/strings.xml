@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BottomSheetExample</string>
+    <string name="show_bottom_sheet_modal">Click here</string>
+</resources>
